@@ -7,7 +7,7 @@ The following script downloads the stable vm version of Pharo 80. Check the web 
 to get the possible choices. 
 
 ```
-cd
+mkdir bin
 cd bin
 curl https://get.pharo.org/64/vm80 | bash
 ```
